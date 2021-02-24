@@ -1,0 +1,13 @@
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\bin\Debug\netcoreapp3.1\Linq_Lab.exe
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\bin\Debug\netcoreapp3.1\Linq_Lab.deps.json
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\bin\Debug\netcoreapp3.1\Linq_Lab.runtimeconfig.json
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\bin\Debug\netcoreapp3.1\Linq_Lab.runtimeconfig.dev.json
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\bin\Debug\netcoreapp3.1\Linq_Lab.dll
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\bin\Debug\netcoreapp3.1\Linq_Lab.pdb
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\obj\Debug\netcoreapp3.1\Linq_Lab.csprojAssemblyReference.cache
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\obj\Debug\netcoreapp3.1\Linq_Lab.AssemblyInfoInputs.cache
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\obj\Debug\netcoreapp3.1\Linq_Lab.AssemblyInfo.cs
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\obj\Debug\netcoreapp3.1\Linq_Lab.csproj.CoreCompileInputs.cache
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\obj\Debug\netcoreapp3.1\Linq_Lab.dll
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\obj\Debug\netcoreapp3.1\Linq_Lab.pdb
+C:\Users\wendi\source\repos\Linq_Lab\Linq_Lab\obj\Debug\netcoreapp3.1\Linq_Lab.genruntimeconfig.cache
