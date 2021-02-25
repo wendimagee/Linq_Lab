@@ -118,6 +118,16 @@ namespace Linq_Lab
                 Console.WriteLine(stus.Name);
             }
 
+            //Nick's version of that last question. Pretty cool!
+            char[] vowels = { 'a', 'e', 'i', 'o', 'u' };
+            List<Student> vowelStart = students.Where(x => x.Name.ToLower().IndexOfAny(vowels) == 0).ToList();
+            Console.WriteLine("Students with names starting with a vowel:");
+            foreach (Student stude in vowelStart)
+            {
+                Console.WriteLine(stude.Name);
+            }
+
+
             //Console.WriteLine("get a list of students that can drive");
             //List<Student> drivers = students.Where(x => x.CanDrive == true).ToList();
             //foreach(Student a in drivers)
