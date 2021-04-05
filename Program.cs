@@ -42,8 +42,8 @@ namespace Linq_Lab
             students.Add(new Student("Maria", 63)); students.Add(new Student("Abe", 33)); students.Add(new Student("Curtis", 10));
 
             Console.WriteLine("1. Find the students of drinking age (US)");
-            List<Student> drinkers = students.Where(x => x.Age >= 21).ToList();
-            foreach(Student stu in drinkers)
+            List<Student> drinkers = students.Where(x => x.IsDrinkingAge == true).ToList();
+            foreach (Student stu in drinkers)
             {
                 Console.WriteLine(stu.Name);
             }
@@ -68,7 +68,7 @@ namespace Linq_Lab
             }
 
             Console.WriteLine("6. Find all teenagers");
-            List<Student> teens = students.Where(x => x.Age > 12 && x.Age < 20).ToList();
+            List<Student> teens = students.Where(x => x.IsTeenager == true).ToList();
             foreach(Student t in teens)
             {
                 Console.WriteLine(t.Name);
